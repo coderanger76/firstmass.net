@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "First Mass: First Documented Catholic Masses in the United States",
+  "description": "A crowdsourced, source-linked dataset of the first documented Catholic Mass said in each place that became part of the United States and its territories, including location, date, priest, expedition, and sourcing for each entry.",
+  "url": "https://firstmass.net/",
+  "sameAs": "https://github.com/coderanger76/firstmass.net",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": [
+    "Catholic history",
+    "United States history",
+    "first Mass",
+    "Catholic missions",
+    "American Catholic history"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "First Mass",
+    "url": "https://firstmass.net/"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://firstmass.net/data/masses.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/coderanger76/firstmass.net/main/masses.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/coderanger76/firstmass.net/main/masses.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/xml",
+      "contentUrl": "https://raw.githubusercontent.com/coderanger76/firstmass.net/main/masses.xml"
+    }
+  ]
+}
