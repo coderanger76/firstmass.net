@@ -1,5 +1,8 @@
 # First Mass — dataset
 
+© 2026 First Mass / Catholic West — https://firstmass.net · Licensed [CC BY 4.0](LICENSE)
+
+
 The open dataset behind **[firstmass.net](https://firstmass.net)**: a crowdsourced, source-linked
 record of the earliest documented Catholic Mass said in each place that became part of the
 United States and its territories.
