@@ -263,6 +263,34 @@
     "submitter_twitter": "ecofire2"
   },
   {
+    "id": "oklahoma-oklahoma-panhandle-coronado-expedition-route-1541",
+    "location": "Oklahoma Panhandle",
+    "state_territory": "Oklahoma",
+    "county": "Unknown",
+    "modern_diocese": "Archdiocese of Oklahoma City",
+    "historical_diocese": "Unorganized",
+    "date_display": "1541",
+    "date_sort": "1541-06-01",
+    "date_precision": "exact",
+    "priest": "Fray Juan de Padilla",
+    "religious_order": "Order of Friars Minor (Franciscans)",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "Coronado Expedition",
+    "expedition_id": "coronado-1540-42",
+    "lat": 36.77695,
+    "lng": -101.503384,
+    "sources": [
+      {
+        "label": "Archdiocese of Oklahoma City — News/Archives",
+        "url": "https://archokc.org/news/from-the-archives-72"
+      }
+    ],
+    "notes": "Diocesan narrative very skinny, saying someone said Mass during Coronado expedition in 1542. However I think that's in error. Per Gilbert J. Garraghan, S.J., 'Catholic First Things in the United States', the Coronado Expedition did cross the western extremity of Oklahoma in 1541 en route to Kansas. Garraghan's Oklahoma section notes: 'Probably Fray de Padilla (1541), more probably De Soto's chaplains (1541)... said Mass within the limits of the state. No mention of Mass during the Spanish period occurs in the records.' The evidence for first Mass during Coronado's passage is speculative rather than documented. Marking as disputed pending verification of celebrant or a different contemporary record. He was in the area at the time, saying Mass in northern Texas in May and Kansas in June of 1541, not 1542. \r\n\r\nFurther sources: Gilbert J. Garraghan, S.J., 'Catholic First Things in the United States,' Mid-America: An Historical Review, vol. 21 (1939) — https://archive.org/details/midamericahistor21unse/",
+    "confidence": "disputed",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
+  },
+  {
     "id": "ks-quivira-1541",
     "location": "East of present-day Dodge City",
     "state_territory": "Kansas",
@@ -623,6 +651,39 @@
     "submitter_twitter": ""
   },
   {
+    "id": "maine-swan-island-kennebec-river-entrance-1611",
+    "location": "Swan Island / Kennebec River entrance",
+    "state_territory": "Maine",
+    "county": "",
+    "modern_diocese": "Diocese of Portland in Maine",
+    "historical_diocese": "Unorganized",
+    "date_display": "November 1, 1611",
+    "date_sort": "1611-11-01",
+    "date_precision": "exact",
+    "priest": "Fr. Pierre Biard, Fr. Ennemond Masse S.J.",
+    "religious_order": "Society of Jesus (Jesuits)",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "",
+    "expedition_id": "",
+    "lat": 44.058964,
+    "lng": -69.795046,
+    "sources": [
+      {
+        "label": "Diocese of Portland in Maine — History of Priestly Ministry",
+        "url": "https://portlanddiocese.org/history-of-priestly-ministry-in-the-diocese"
+      }
+    ],
+    "notes": "By 1611, French Jesuit Fr. Pierre Biard was traveling the St. John, St. Croix, Penobscot, and Kennebec rivers, bringing the sacraments to tribes across Maine. Along with Fr. Ennemond Massé, he offered spiritual care at Pleasant Point, Old Town, Bangor, Castine, and islands such as Monhegan and Matinicus. That same year, Fr. Massé celebrated the first recorded Mass in New England on Swan Island at the mouth of the Kennebec River.",
+    "confidence": "confirmed",
+    "images": [
+      {
+        "url": "/img/entries/e16b1a9b3a0dfa23.jpg",
+        "caption": ""
+      }
+    ],
+    "submitter_twitter": "_catholicwest"
+  },
+  {
     "id": "texas-confluence-of-the-concho-river-near-present-day-san-angelo-1629",
     "location": "Confluence of the Concho River (near present-day San Angelo)",
     "state_territory": "Texas",
@@ -797,6 +858,34 @@
     "confidence": "confirmed",
     "images": [],
     "submitter_twitter": "pastagut"
+  },
+  {
+    "id": "wisconsin-near-oconto-1669",
+    "location": "Near Oconto",
+    "state_territory": "Wisconsin",
+    "county": "Oconto County",
+    "modern_diocese": "Diocese of Green Bay",
+    "historical_diocese": "Unorganized",
+    "date_display": "1669",
+    "date_sort": "1669",
+    "date_precision": "year-only",
+    "priest": "Fr. Claude Allouez",
+    "religious_order": "Society of Jesus (Jesuits)",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "",
+    "expedition_id": "",
+    "lat": 44.88802,
+    "lng": -87.869618,
+    "sources": [
+      {
+        "label": "Diocese of Green Bay — Diocesan History",
+        "url": "https://www.gbdioc.org/history/"
+      }
+    ],
+    "notes": "The Diocese of Green Bay's own history confirms that 'In 1669, Jesuit Father Claude Allouez celebrated the first recorded Mass near Oconto, establishing the St. Francis Xavier Mission.' Given Allouez's documented presence in the region during this period and his known pattern of celebrating Mass throughout his mission territories, the Oconto Mass fits well within his documented itinerary. \r\n\r\nFurther sources: Gilbert J. Garraghan, S.J., \"Catholic First Things in the United States,\" Mid-America: An Historical Review, vol. 21 (1939) — https://archive.org/details/midamericahistor21unse/",
+    "confidence": "confirmed",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
   },
   {
     "id": "wisconsin-oshkosh-1670",
@@ -1205,6 +1294,62 @@
     "submitter_twitter": "haikufictiondju"
   },
   {
+    "id": "michigan-detroit-fort-pontchartrain-du-d-troit-1701",
+    "location": "Fort Pontchartrain du Détroit",
+    "state_territory": "Michigan",
+    "county": "Wayne County",
+    "modern_diocese": "Archdiocese of Detroit",
+    "historical_diocese": "Diocese of Quebec",
+    "date_display": "1701",
+    "date_sort": "1701",
+    "date_precision": "year-only",
+    "priest": "",
+    "religious_order": "",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "Antoine de la Mothe Cadillac Expedition",
+    "expedition_id": "",
+    "lat": 42.331551,
+    "lng": -83.04664,
+    "sources": [
+      {
+        "label": "Archdiocese of Detroit — History of the Archdiocese",
+        "url": "https://www.aod.org/history-of-the-archdiocese"
+      }
+    ],
+    "notes": "The Archdiocese of Detroit's history page confirms that 'Antoine de la Mothe Cadillac leads French traders and priests to the banks of Detroit River, where they founded Ste. Anne, Detroit's first Catholic Church' in 1701. However, Per Gilbert J. Garraghan, S.J. ('Catholic First Things in the United States,' Mid-America, 1939), the extant Detroit church records do not begin until 1704, with the first recorded baptism performed by 'Friar Constantine Delhalle, Recollect,' on February 2, 1704. Garraghan does not document a Mass at Detroit in 1701. The founding of the physical church and the earliest recorded sacramental activity are thus separated by three years. Allowing 1701 as the founding date for now, though the sacramental record begins 1704. No priest name or order listed. \r\n\r\nFurther sources: Gilbert J. Garraghan, S.J., \"Catholic First Things in the United States,\" Mid-America: An Historical Review, vol. 21 (1939) — https://archive.org/details/midamericahistor21unse/",
+    "confidence": "inferred",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
+  },
+  {
+    "id": "pennsylvania-philadelphia-public-celebration-1707",
+    "location": "Philadelphia",
+    "state_territory": "Pennsylvania",
+    "county": "Philadelphia County",
+    "modern_diocese": "Archdiocese of Philadelphia",
+    "historical_diocese": "Diocese of Quebec",
+    "date_display": "1707",
+    "date_sort": "1707",
+    "date_precision": "year-only",
+    "priest": "",
+    "religious_order": "Diocesan / Secular clergy",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "",
+    "expedition_id": "",
+    "lat": 39.952724,
+    "lng": -75.163526,
+    "sources": [
+      {
+        "label": "Archdiocese of Philadelphia — About",
+        "url": "https://archphila.org/about/"
+      }
+    ],
+    "notes": "The Archdiocese of Philadelphia's website states that 'The Mass was celebrated publicly as early as 1707,' marking an important early milestone for Catholic worship in the city. Per Gilbert J. Garraghan, S.J. ('Catholic First Things in the United States,' Mid-America, 1939), he documents public Mass in Philadelphia through a statement by Episcopal clergyman Rev. John Talbot dated February 4, 1708, which says 'Mass is said and read publicly in Philadelphia and several people are turned to it.' Garraghan notes that the identity of the priest cannot be established. The discrepancy between the archdiocese's 1707 date and Garraghan's documented 1708 statement suggests the public celebration may have begun in 1707 with wider public knowledge by 1708.",
+    "confidence": "confirmed",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
+  },
+  {
     "id": "louisiana-natchitoches-1716",
     "location": "Natchitoches",
     "state_territory": "Louisiana",
@@ -1455,6 +1600,62 @@
     "confidence": "confirmed",
     "images": [],
     "submitter_twitter": "ecofire2"
+  },
+  {
+    "id": "pennsylvania-old-saint-joseph-s-church-philadelphia-1733",
+    "location": "Old Saint Joseph's Church, Philadelphia",
+    "state_territory": "Pennsylvania",
+    "county": "Philadelphia County",
+    "modern_diocese": "Archdiocese of Philadelphia",
+    "historical_diocese": "Unorganized",
+    "date_display": "1733",
+    "date_sort": "1733",
+    "date_precision": "year-only",
+    "priest": "Fr. Joseph Greaton",
+    "religious_order": "Society of Jesus (Jesuits)",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "",
+    "expedition_id": "",
+    "lat": 39.946847,
+    "lng": -75.147537,
+    "sources": [
+      {
+        "label": "Archdiocese of Philadelphia — About",
+        "url": "https://archphila.org/about/"
+      }
+    ],
+    "notes": "Per Gilbert J. Garraghan, S.J. (\"Catholic First Things in the United States,\" Mid-America, 1939), the first resident priest in Pennsylvania was Father Joseph Greaton, S.J., who was \"Pennsylvania's first pastor.\" Garraghan records that Greaton \"was pastor in Philadelphia where he built a chapel, 1733-1734.\" The Diocese of Philadelphia's website identifies this as Old Saint Joseph's Church, \"the first Catholic church in Philadelphia.\" Garraghan also notes that Mass was said in Philadelphia as early as 1708 and \"certainly said in Philadelphia at least as early as 1729,\" but the permanent structure and resident ministry date from Greaton's 1733 building.",
+    "confidence": "confirmed",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
+  },
+  {
+    "id": "new-jersey-glass-factory-salem-county-1743",
+    "location": "Glass factory, Salem County",
+    "state_territory": "New Jersey",
+    "county": "Salem County",
+    "modern_diocese": "Diocese of Camden",
+    "historical_diocese": "Diocese of Quebec?",
+    "date_display": "October 5, 1743",
+    "date_sort": "1743-10-05",
+    "date_precision": "exact",
+    "priest": "Fr. Theodore Schneider, SJ",
+    "religious_order": "Society of Jesus (Jesuits)",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "",
+    "expedition_id": "",
+    "lat": 39.572147,
+    "lng": -75.466621,
+    "sources": [
+      {
+        "label": "Diocese of Camden — Diocesan History",
+        "url": "https://www.camdendiocese.org/diocese-history/"
+      }
+    ],
+    "notes": "The Diocese of Camden identifies October 5, 1743 as \"the first recorded Baptism and Mass ... at a glass factory in Salem County ... Father Theodore Schneider, S.J. from St. Joseph's College in Philadelphia.\" Earliest confirmed sacramental record in New Jersey tied to a specific date and location. Setting as confirmed from Schneider's documented presence and baptismal ministry. Per Gilbert J. Garraghan, S.J, \"Father Theodore Schneider, S.J., visited New Jersey from Goshenhoppen as early as 1742, as evidenced by his baptismal register.\" Garraghan records that baptisms followed, documented in the Goshenhoppen register: \"MaKarmick (McCormick,) Elias ... baptized August 29th [1742]\"; \"David ... baptized May 30, 1743.\"",
+    "confidence": "confirmed",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
   },
   {
     "id": "indiana-francis-xavier-parish-in-vincennes-1749",
@@ -1986,6 +2187,34 @@
     "expedition_id": "portola-1769-70"
   },
   {
+    "id": "california-near-lake-merritt-then-a-swamp-oakland-1772",
+    "location": "Near Lake Merritt, Oakland",
+    "state_territory": "California",
+    "county": "Alameda County",
+    "modern_diocese": "Diocese of Oakland",
+    "historical_diocese": "Unorganized",
+    "date_display": "March 27, 1772",
+    "date_sort": "1772-03-27",
+    "date_precision": "exact",
+    "priest": "Fr. Juan Crespi",
+    "religious_order": "Order of Friars Minor (Franciscans)",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "",
+    "expedition_id": "",
+    "lat": 37.804621,
+    "lng": -122.25625,
+    "sources": [
+      {
+        "label": "Diocese of Oakland — History",
+        "url": "https://www.oakdiocese.org/history/"
+      }
+    ],
+    "notes": "The Diocese of Oakland explicitly confirms that 'a Catholic presence in what is now the Diocese of Oakland can be traced to March 27, 1772, when Franciscan Father Juan Crespi, traveling with a party of Spanish explorers, celebrated Mass near a swamp that would one day become Lake Merritt in Oakland.'",
+    "confidence": "confirmed",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
+  },
+  {
     "id": "nevada-laughlin-1776",
     "location": "Laughlin",
     "state_territory": "Nevada",
@@ -2301,6 +2530,34 @@
     "submitter_twitter": "_catholicwest"
   },
   {
+    "id": "pennsylvania-vestry-of-saint-augustine-church-silver-lake-1828",
+    "location": "Saint Augustine Church, Silver Lake",
+    "state_territory": "Pennsylvania",
+    "county": "Susquehanna County",
+    "modern_diocese": "Diocese of Scranton",
+    "historical_diocese": "Unorganized",
+    "date_display": "October 2, 1828",
+    "date_sort": "1828-10-02",
+    "date_precision": "exact",
+    "priest": "Fr. Jeremiah Francis O'Flynn",
+    "religious_order": "Diocesan / Secular clergy",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "",
+    "expedition_id": "",
+    "lat": 41.96501,
+    "lng": -75.953918,
+    "sources": [
+      {
+        "label": "Diocese of Scranton — Saint Augustine Church: Oldest in the Diocese to Celebrate 200 Years of Faith and Heritage",
+        "url": "https://www.dioceseofscranton.org/saint-augustine-church-oldest-in-the-diocese-to-celebrate-200-years-of-faith-and-heritage/"
+      }
+    ],
+    "notes": "Father Jeremiah Francis O'Flynn, a missionary invited to the region in 1825 by a Catholic layman named Robert Rose, established the first Catholic foothold in Susquehanna County. With authorization from the Bishop of Philadelphia, O'Flynn purchased farmland and oversaw construction of what became Saint Augustine Church. On October 2, 1828, before the building's completion, O'Flynn celebrated the inaugural Mass in the church's vestry—the first recorded Mass in what is now Scranton's diocese. The congregation grew significantly after that day. O'Flynn died in 1831 during a pastoral visit and was buried at Saint Augustine's cemetery. Confirmed exact date.",
+    "confidence": "confirmed",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
+  },
+  {
     "id": "texas-villa-de-san-patricio-de-hibernia-1830",
     "location": "Villa de San Patricio de Hibernia",
     "state_territory": "Texas",
@@ -2440,6 +2697,34 @@
       }
     ],
     "submitter_twitter": "ecofire2"
+  },
+  {
+    "id": "missouri-sacred-heart-church-rich-fountain-1838",
+    "location": "Sacred Heart Church / Rich Fountain",
+    "state_territory": "Missouri",
+    "county": "Osage County",
+    "modern_diocese": "Diocese of Jefferson City",
+    "historical_diocese": "Diocese of Quebec?",
+    "date_display": "May 16, 1838",
+    "date_sort": "1838-05-16",
+    "date_precision": "exact",
+    "priest": "Fr. Ferdinand Helias, S.J.",
+    "religious_order": "Society of Jesus (Jesuits)",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "",
+    "expedition_id": "",
+    "lat": 38.397756,
+    "lng": -91.881151,
+    "sources": [
+      {
+        "label": "Diocese of Jefferson City — Diocesan History",
+        "url": "https://diojeffcity.org/about-us/history/"
+      }
+    ],
+    "notes": "Fr. Ferdinand Helias, a Belgian Jesuit, celebrated the first known Mass at Rich Fountain for four early Catholic families on May 16, 1838. The community was subsequently named 'Riche Fountaine' after an active spring near the church. Per Sr. Loretta Pastva, SND (Proclaiming the Good News in the Heart of Missouri, 2006), this pioneering Mass marks the beginning of organized Catholic ministry in the Rich Fountain settlement. This entry came out of a search of the Diocese of Jefferson City's own website, which credits Pastva's historical research and names Fr. Helias's specific date and role in founding this mission.\r\n\r\nFurther sources: Sr. Loretta Pastva, SND, Proclaiming the Good News in the Heart of Missouri (2006)",
+    "confidence": "confirmed",
+    "images": [],
+    "submitter_twitter": "_catholicwest"
   },
   {
     "id": "washington-fort-colville-1838",
@@ -2710,6 +2995,39 @@
     "confidence": "confirmed",
     "images": [],
     "submitter_twitter": "_catholicwest"
+  },
+  {
+    "id": "montana-red-rock-lake-1840",
+    "location": "Beaverhead River, near Red Rock Lake",
+    "state_territory": "Montana",
+    "county": "Beaverhead County",
+    "modern_diocese": "Diocese of Helena",
+    "historical_diocese": "Diocese of Quebec",
+    "date_display": "July 26, 1840",
+    "date_sort": "1840-07-26",
+    "date_precision": "exact",
+    "priest": "Fr. Pierre-Jean De Smet, S.J.",
+    "religious_order": "Society of Jesus (Jesuits)",
+    "rite": "Roman (Latin) Rite",
+    "expedition": "De Smet's 1840 Journey West",
+    "expedition_id": "desmet-1840",
+    "lat": 44.6055,
+    "lng": -111.7163,
+    "sources": [
+      {
+        "label": "L.B. Palladino, S.J., Indian and White in the Northwest (1894)",
+        "url": "https://archive.org/details/indianandwhite00palliala"
+      }
+    ],
+    "notes": "Diocese of Great Falls-Billings own parish history page states \"Jesuit Father Pierre-Jean DeSmet answered the call, celebrating the first Mass in Montana on July 26, 1840\" -- same date, no location given on their page, but a search of Palladino, SJ \"History of Catholicity in Montana\" says this Mass was said near the headwaters of Beaverhead River, near Red Rock Lake. This would be along the general route and time of the other first Masses he said in summer 1840.",
+    "confidence": "confirmed",
+    "images": [
+      {
+        "url": "/img/entries/ec7e692aa9338360.jpg",
+        "caption": ""
+      }
+    ],
+    "submitter_twitter": ""
   },
   {
     "id": "montana-three-forks-1840",
